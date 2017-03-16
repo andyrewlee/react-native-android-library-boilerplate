@@ -1,0 +1,28 @@
+{
+  "name": "react-native-android-library-boilerplate",
+  "version": "0.0.1",
+  "author": "Andrew Lee",
+  "private": false,
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andyrewlee/react-native-android-library-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andyrewlee/react-native-android-library-boilerplate/issues"
+  },
+  "homepage": "https://github.com/andyrewlee/react-native-android-library-boilerplate",
+  "keywords": [
+    "react-native",
+    "android",
+    "library"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  },
+  "dependencies": {}
+}
